@@ -1,0 +1,21 @@
+.wp-block-onlinemenukaart-block-menukaart-embed {
+    position: relative;
+    margin-bottom: 28px;
+    padding: 1em;
+    min-height: 120px;
+    width: 100%;
+    background: rgba(139, 139, 150, .1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .components-base-control {
+        width: 100%;
+    }
+
+    .components-select-control__input {
+        width: 100%;
+        max-width: 100%;
+        min-height: 38px;
+    }
+}

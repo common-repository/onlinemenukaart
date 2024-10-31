@@ -1,0 +1,5 @@
+msgid "Succesvol geauthoriseerd"
+msgstr ""
+
+msgid "Koppel je Onlinemenukaart.nl account"
+msgstr ""
